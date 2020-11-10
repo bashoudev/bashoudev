@@ -13,6 +13,7 @@
   <strong><a href="https://dolphinthedev.ga">Official Website</a></strong> |
   <strong><a href="https://twitter.com/dolphinthedev">Twitter</a></strong> |
   <strong><a href="https://discord.gg/dQ5ZESkR5W">Discord</a></strong> |
+  <strong><a href="https://apparel.dolphinthedev.ga/">Apparel</a></strong> 
 </p>
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and some Content Creation.</p>
