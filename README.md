@@ -16,4 +16,4 @@
 </p>
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and some Content Creation.</p>
-<p align="center" style="font-size:5px;"> README.md inspired from edisonlee55 on github.</p>
+<p align="center" style="font-size:2px;"> README.md inspired from edisonlee55 on github.</p>
