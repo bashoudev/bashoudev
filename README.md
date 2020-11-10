@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dolphinthedev.ga"><img src="banner.png" alt="Dolphin's Banner. If the image does not appear GitHub CDN is down or someting is wrong with your browser"></a>
+  <a href="https://dolphinthedev.ga"><img src="Banner Twitter.png" alt="Dolphin's Banner. If the image does not appear GitHub CDN is down or someting is wrong with your browser"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://dolphinthedev.ga">DolphinTheDev</a>!</h1>
