@@ -2,7 +2,7 @@
   <a href="https://dolphinthedev.ga"><img src="Banner Twitter.png" alt="Dolphin's Banner. If the image does not appear GitHub CDN is down or someting is wrong with your browser"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://dolphinthedev.ga">DolphinTheDev</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://dolphinthedev.ga">Dolphin</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
@@ -16,4 +16,4 @@
 </p>
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and some Content Creation.</p>
-<code align="center"> README.md inspired from edisonlee55 on github.</code>
+<p align="center" style="font-size:5px;"> README.md inspired from edisonlee55 on github.</p>
