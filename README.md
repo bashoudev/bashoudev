@@ -1,23 +1,26 @@
-<!-- 
-<p align="center">
-  <a href="https://bashoudev.ga"><img src="Banner Twitter.png" alt="Bashou's Banner. If the image does not appear GitHub CDN is down or someting is wrong with your browser"></a>
-</p>
+<!-- readme.md -->
 
-<h1 align="center">Hi, I'm <a href="https://bashoudev.ga">Bashou</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile</h1>
+### Heyyy, I'm [Zion!](https://bashoustudios.ga) 👋
 
-<p align="center">
-  <a href="https://github.com/bashoudev"><img src="https://github-readme-stats.vercel.app/api?username=bashoudev&hide_border=true&show_icons=true" alt="Bashou's github stats"></a>
-</p>
+I'm a chill programmer who loves play games, create art, read (documentation), and of course code!
 
-<p align="center">
-  <strong><a href="https://bashoudev.ga">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/bashou">Twitter</a></strong> |
-  <strong><a href="https://bashoudev.ga/error">Discord</a></strong> |
-  <strong><a href="https://shop.bashoudev.ga/">Apparel</a></strong> 
-</p>
+- 🔭 I'm currently working on [Mars](https://github.com/bashoustudios/mars)
+- 🌱 I'm currently learning Typescript & Python
+- ✨ I plan to post content on YouTube
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and some Content Creation.</p>
-<p align="center" style="font-size:2px;"> README.md inspired from edisonlee55 on github.</p>
- --> 
- <h1> Currently being updated</h1>
+Also, I am getting back into Anime! 
+
+**Languages and Tools:**
+ - Java 
+ - Javascipt
+ - HTML
+ - CSS
+ - PHP
+ - SQL
+ - C/C++
+ - C#
+ - Kotlin
+
+ > *NOTE: Top languages does not indicate my skill level or something like that.
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bashoudev&show_icons=true&theme=tokyonight" alt="bashoudev github stats">
