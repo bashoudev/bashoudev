@@ -4,7 +4,7 @@
 
 I'm a chill programmer who loves play games, create art, read (documentation), and of course code!
 
-- 🔭 I'm currently working on [Mars](https://github.com/bashoustudios/mars)
+- 🔭 I'm currently working on [Mars](https://github.com/bashoustudios/mars) - (currently private)
 - 🌱 I'm currently learning Typescript & Python
 - ✨ I plan to post content on YouTube
 
